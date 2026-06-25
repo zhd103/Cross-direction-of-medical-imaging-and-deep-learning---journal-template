@@ -1,6 +1,8 @@
 # 医学影像与深度学习交叉方向 -- 顶刊论文全流程写作模板
 
-> **适用范围**：IEEE TMI、Medical Image Analysis、NeuroImage、IEEE JBHI、MICCAI 等中科院一区/二区医学影像领域期刊及会议**写作语言**：英文（模板以英文句式为主，注释说明为中文）**核心原则**：严谨学术、规避口语化、逻辑递进、证据驱动
+> **适用范围**：IEEE TMI、Medical Image Analysis、NeuroImage、IEEE JBHI、MICCAI 等中科院一区/二区医学影像领域期刊及会议
+> **写作语言**：英文（模板以英文句式为主，注释说明为中文）
+> **核心原则**：严谨学术、规避口语化、逻辑递进、证据驱动
 
 * * *
 
@@ -1242,4 +1244,7 @@ The entire network is optimized using the AdamW optimizer with an initial learni
 
 * * *
 
-> **模板版本**：v1.0**适用领域**：医学影像分析、深度学习辅助诊断、多模态融合、医学图像生成、脑影像分析、计算神经科学**适用期刊**：IEEE TMI, Medical Image Analysis, NeuroImage, NeuroImage: Clinical, Human Brain Mapping, IEEE JBHI, MICCAI**最后更新**：2026年6月
+> **模板版本**：v1.0
+> **适用领域**：医学影像分析、深度学习辅助诊断、多模态融合、医学图像生成、脑影像分析、计算神经科学
+> **适用期刊**：IEEE TMI, Medical Image Analysis, NeuroImage, NeuroImage: Clinical, Human Brain Mapping, IEEE JBHI, MICCAI
+> **最后更新**：2026年6月
